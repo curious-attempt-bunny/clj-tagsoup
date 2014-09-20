@@ -1,3 +1,5 @@
+[![Clojars Project](http://clojars.org/curious-attempt-bunny/clj-tagsoup/latest-version.svg)](http://clojars.org/curious-attempt-bunny/clj-tagsoup)
+
 clj-tagsoup
 ===========
 
